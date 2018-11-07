@@ -9,7 +9,7 @@ public class ArrayTest {
 	//}
 
 	public static void main(String[] args) {
-	double [] array = {1,2,3,4,5,6,7,8,9,10};
+	double [] array = {2,2,3,6,5,6,7,8,11,10};
 	
 	double finalavg = average(array); 
 	System.out.println(" The average of the array is : " + finalavg);
